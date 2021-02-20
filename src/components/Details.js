@@ -6,12 +6,12 @@ const StyledTitle = styled.div`
     display:flex;
     justify-content:space-between;
     margin:0 auto;
-    width:83%;
+    width:1000px;
     font-size:120%;
     font-weight:bold;
 `
 const StyledP = styled.p`
-    width:83%;
+    width:1000px;
     text-align:left;
     margin:1% auto;
 `
